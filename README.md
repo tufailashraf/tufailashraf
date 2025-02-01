@@ -20,7 +20,6 @@
 <a href="https://linkedin.com/in/tufail-ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tufail-ashraf" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/tufail_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tufail_021" height="30" width="40" /></a>
 <a href="https://kaggle.com/tufail2119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tufail2119" height="30" width="40" /></a>
-<a href="https://instagram.com/tufail_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tufail_021" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
